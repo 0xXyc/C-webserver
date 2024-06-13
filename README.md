@@ -1,7 +1,7 @@
 # C-webserver
 This is a very lightweight and simple HTTP server created for learning C, sockets, and HTTP RFC.
 # A True Alpha Web Server in C
-### Written By Xyconix
+### ~ Written By Xyconix
 ## Goals 
 Here, we will be learning from a low-level (C), how web servers actually work, how they serve files, deliver files, and learn how the web works in general through a project-oriented/build-by-learning methodology.
 ### Promise to myself
