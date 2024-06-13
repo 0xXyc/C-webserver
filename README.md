@@ -13,9 +13,9 @@ I believe that this will greatly enhance my current and future knowledge-base wi
 By utilizing and harnessing the power of libc, we can use the C standard library package, `<sys/socket.h>` to allow our program/server the ability to handle and form connections over the Internet.
 This will be following a client/server model of course. The server will essentially be allowed to talk to our clients over a network or even the Internet by the end of this!
 ## Ideology:
-	``` Server								Client
+	    Server								Client
 	    1. Create socket on port x	<---> TCP Connection Established <--->  1. Create socket & connect to server_IP:Port
 	    2. Wait for incoming request from client				2. Send request 
 	    3. Read request from client						3. Read reply
 	    4. Write reply to client						4. Close socket
-	    5. Close connection/socket```
+	    5. Close connection/socket
